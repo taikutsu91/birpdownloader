@@ -5,8 +5,8 @@ BIRP is a monthly compilation of over 100 tracks that are available to stream or
 This downloader can help you easily download older playlists. Note that some newer playlists may not have all of the songs available for streaming, so it's best to use the official download option if it's available.
 
 Try on google colab
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1z0-5bqUPRCSIWU6oB3xpy5nZw92-5X5D?usp=sharing) 
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17QHVXsrQUdjAQVX-_ffprfgoxYZrwhKw?usp=share_link) 
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1z0-5bqUPRCSIWU6oB3xpy5nZw92-5X5D#scrollTo=EQe1PbhfcDc4&forceEdit=true&sandboxMode=true) 
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17QHVXsrQUdjAQVX-_ffprfgoxYZrwhKw#forceEdit=true&sandboxMode=true) 
 
 ## Requirements
 
